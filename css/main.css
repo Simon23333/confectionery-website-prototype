@@ -44,7 +44,7 @@ h2 {
   padding-top: .5rem;
   padding-bottom: .5rem;
   padding-left: .5rem;
-  background-color: #bdbfbd;
+  background-color: #ffd400;
 }
 
 h3 {
@@ -56,7 +56,7 @@ h3 {
   padding-top: .5rem;
   padding-bottom: .5rem;
   padding-left: .5rem;
-  background-color: #bdbfbd;
+  background-color: #ffd400;
 }
 
 h4 {
@@ -68,7 +68,7 @@ h4 {
   padding-top: .5rem;
   padding-bottom: .5rem;
   padding-left: .5rem;
-  background-color: #bdbfbd;
+  background-color: #ffd400;
 }
 
 h5 {
@@ -80,7 +80,7 @@ h5 {
   padding-top: .5rem;
   padding-bottom: .5rem;
   padding-left: .5rem;
-  background-color: #bdbfbd;
+  background-color: #ffd400;
 }
 
 nav ul {
@@ -129,7 +129,7 @@ main ul {
   margin: .5em;
   padding: 1em;
   background-color: #ffd400;
-  border: 3px solid #bdbfbd;
+  border: 3px solid #ffd400;
   border-radius: 6px;
 }
 
@@ -166,7 +166,7 @@ main ul {
   padding: .25em;
   font-size: 1.2em;
   color: #fff;
-  background-color: #bdbfbd;
+  background-color: #ffd400;
   border: 3px solid #fff;
   border-radius: 12px;
 }
@@ -197,7 +197,7 @@ section {
   float: left;
   color: #fff;
   font-size: 1rem;
-  border: 4px solid #bdbfbd;
+  border: 4px solid #ffd400;
   border-radius: 12px;
   padding: .5rem;
   margin: .5rem;
@@ -231,7 +231,7 @@ section {
     padding: .25em;
     font-size: 1.2em;
     color: #fff;
-    background-color: #bdbfbd;
+    background-color: #ffd400;
     border: 3px solid #fff;
     border-radius: 12px;
   }
@@ -251,7 +251,7 @@ section {
     margin: .5em;
     padding: 1em;
     background-color: #ffd400;
-    border: 3px solid #bdbfbd;
+    border: 3px solid #ffd400;
     border-radius: 6px;
   }
 
@@ -261,7 +261,7 @@ section {
     width: 23%;
     margin: .5em;
     padding: 1em;
-    border: 3px solid #bdbfbd;
+    border: 3px solid #ffd400;
     border-radius: 6px;
   }
 
